@@ -1,5 +1,6 @@
+Score : 3
 # HTML Input 2 CW
-
+#### Partial : button not associated with form, password field wrong input type, required feilds not reqiured  
 Duplicate the form depicted in the included image. Note the following:
 
 * Use placeholders (hints) where shown
